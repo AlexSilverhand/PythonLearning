@@ -1,4 +1,4 @@
-**Description**: A collection of my early Python scripts and exercises while learning the basics of programming. These examples cover fundamental concepts like variables, loops, functions, and more.  
+A small collection of my early Python scripts and exercises while learning the basics of programming. These examples cover fundamental concepts like variables, loops, functions, and more.  
 
 ## Key Topics  
 - Basic syntax (print, variables, operators).  
