@@ -13,5 +13,3 @@ A small collection of my early Python scripts and exercises while learning the b
 
 2. Navigate to any script and run it with Python:
     python script_name.py
-
-3. Have fun!!!!
